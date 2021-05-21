@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/evolvFchallenge/static/css/main.93e1d718.chunk.css",
-    "main.js": "/evolvFchallenge/static/js/main.5ccc16d5.chunk.js",
-    "main.js.map": "/evolvFchallenge/static/js/main.5ccc16d5.chunk.js.map",
+    "main.js": "/evolvFchallenge/static/js/main.5793f140.chunk.js",
+    "main.js.map": "/evolvFchallenge/static/js/main.5793f140.chunk.js.map",
     "runtime-main.js": "/evolvFchallenge/static/js/runtime-main.ddc88a0c.js",
     "runtime-main.js.map": "/evolvFchallenge/static/js/runtime-main.ddc88a0c.js.map",
     "static/js/2.3fd5f67a.chunk.js": "/evolvFchallenge/static/js/2.3fd5f67a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ddc88a0c.js",
     "static/js/2.3fd5f67a.chunk.js",
     "static/css/main.93e1d718.chunk.css",
-    "static/js/main.5ccc16d5.chunk.js"
+    "static/js/main.5793f140.chunk.js"
   ]
 }
