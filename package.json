@@ -1,8 +1,8 @@
 {
-  "name": "evolv",
+  "name": "dish-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jatinsajwan3841.github.io/evolvFchallenge",
+  "homepage": "https://jatinsajwan3841.github.io/dish-management",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
